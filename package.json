@@ -1,0 +1,11 @@
+{
+  "name": "bithdate",
+  "version": "1.0.0",
+  "description": "I born ready!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Braian Vaylet",
+  "license": "ISC"
+}
